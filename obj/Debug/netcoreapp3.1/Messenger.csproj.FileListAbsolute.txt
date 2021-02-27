@@ -1,0 +1,15 @@
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\bin\Debug\netcoreapp3.1\Messenger.exe
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\bin\Debug\netcoreapp3.1\Messenger.deps.json
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\bin\Debug\netcoreapp3.1\Messenger.runtimeconfig.json
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\bin\Debug\netcoreapp3.1\Messenger.runtimeconfig.dev.json
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\bin\Debug\netcoreapp3.1\Messenger.dll
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\bin\Debug\netcoreapp3.1\Messenger.pdb
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\obj\Debug\netcoreapp3.1\Messenger.csprojAssemblyReference.cache
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\obj\Debug\netcoreapp3.1\Messenger.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\obj\Debug\netcoreapp3.1\Messenger.AssemblyInfoInputs.cache
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\obj\Debug\netcoreapp3.1\Messenger.AssemblyInfo.cs
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\obj\Debug\netcoreapp3.1\Messenger.dll
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\obj\Debug\netcoreapp3.1\Messenger.pdb
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\obj\Debug\netcoreapp3.1\Messenger.genruntimeconfig.cache
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Danilo Sosa\Documents\C# Files\Messenger\obj\Debug\netcoreapp3.1\Messenger.csproj.CopyComplete
